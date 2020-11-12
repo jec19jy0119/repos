@@ -6,6 +6,7 @@ public class HelloWorld {
 		System.out.println("Hello");
 		System.out.println("JAVA");
 		System.out.println("11111");
+		System.out.println("2222");
 	}
 
 }
