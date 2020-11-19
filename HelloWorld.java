@@ -4,4 +4,7 @@ class HelloWorld{
 	double num;
 	int abc;
 	int xyz;
+	
+	Helloworld(){
+	}
 }
